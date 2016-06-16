@@ -6,5 +6,5 @@
 <br>
 <b>Example screenshots of our completed Roll A Ball game.</b><br><br>
 ![Alt text](https://github.com/brieprince9/RollABall/blob/master/screenshots/RollaBall.jpg)
-
+<br><br>
 <b>Controls.</b>

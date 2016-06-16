@@ -5,6 +5,6 @@
 <b>Deliverables:</b> Completed game is tested on a computer, presented to peers, and uploaded to GitHub for teacher review and grade.   
 <br>
 <b>Example screenshots of our completed Roll A Ball game.</b><br><br>
-![Alt text](https://github.com/brieprince9/RollABall/blob/master/screenshots/RollaBall.jpg)
+(https://github.com/brieprince9/RollABall/blob/master/screenshots/RollaBall.jpg)
 
 <b>Controls.</b>

@@ -7,4 +7,4 @@
 <b>Example screenshots of our completed Roll A Ball game.</b><br><br>
 ![Alt text](https://github.com/brieprince9/RollABall/blob/master/screenshots/RollaBall.jpg)
 <br><br>
-<b>Controls.</b>
+<b>Controls:</b><br><br>(Player 1) <br><br>Forward: up arrow <br><br>Backward: down arrow <br><br>Turn: left or right arrow <br><br>
